@@ -6,6 +6,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://www.cas.org/sites/default/files/styles/promo_hero/public/images/COVID19-resources-hero800x397.jpg?itok=YufYpBTt");
+
 }
 
 code {
